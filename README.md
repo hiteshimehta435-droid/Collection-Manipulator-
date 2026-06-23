@@ -1,3 +1,7 @@
+<img width="1536" height="682" alt="ChatGPT Image Jun 23, 2026, 04_32_52 PM" src="https://github.com/user-attachments/assets/49ef56ac-6e6a-4607-b8dc-34ca6b53ad94" />
+
+
+
 # Collection Manipulator
 
 ## Project Description
